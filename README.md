@@ -18,11 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
+    # Developed by:Madhumitha R R
+    # Register Number:24900556
+    surya=int(input())
+    vijay=int(input())
+    b=surya
+    surya=vijay
+    vijay=b
+    print("Swapped values are:",surya,vijay)
+### output:
+![output](output.stv.png)
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed..
+
 
 
 
